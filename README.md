@@ -1,3 +1,5 @@
+[![arXiv:2502.18643](https://img.shields.io/badge/arXiv-2502.18643-b31b1b.svg)](https://arxiv.org/abs/2502.18643) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/jredondoyuste/StableLR/License.txt)
+
 # StableLR
 Accompanying routines to study perturbative dynamics of nonlinear waves on stable lightrings. These codes were used in obtaining the results of https://arxiv.org/abs/2502.18643
 
