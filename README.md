@@ -1,5 +1,8 @@
 # StableLR
-Accompanying routines to study perturbative dynamics of nonlinear waves on stable lightrings. These codes were used in obtaining the results of https://arxiv.org/abs/2502.18643 
+Accompanying routines to study perturbative dynamics of nonlinear waves on stable lightrings. These codes were used in obtaining the results of https://arxiv.org/abs/2502.18643
+
+![Snapshots from the evolution of the cubic defocusing wave equation on a spacetime with stable trapping](https://github.com/jredondoyuste/StableLR/blob/main/stableLR_illustration.png)
+
 In particular, it includes:
 
 - `linear_perturbations.nb`: Code to compute the QNM frequencies and radial functions for the potential with stable trapping, including direct integration, Breit-Wigner resonance method, and WKB approximation.
